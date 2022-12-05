@@ -1,0 +1,10 @@
+{
+  "obsidian-admonition:collapse-admonitions": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "PageDown"
+    }
+  ]
+}
