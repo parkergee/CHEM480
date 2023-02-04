@@ -1,0 +1,1 @@
+A transformation is reversible when the system goes trhough an infinite of intermediate states that are each infinitesimally  close to the previous state and the next state - AND that are infinitesimally close to equalibrium?

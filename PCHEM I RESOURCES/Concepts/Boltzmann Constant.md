@@ -1,0 +1,3 @@
+The **Boltzmann constant** (_k_B or k) is the [proportionality factor](https://en.wikipedia.org/wiki/Proportionality_factor "Proportionality factor") that relates the average relative [kinetic energy](https://en.wikipedia.org/wiki/Kinetic_energy "Kinetic energy") of [particles](https://en.wikipedia.org/wiki/Particle "Particle") in a [gas](https://en.wikipedia.org/wiki/Ideal_gas "Ideal gas") with the [thermodynamic temperature](https://en.wikipedia.org/wiki/Thermodynamic_temperature "Thermodynamic temperature") of the gas.
+(According to Wikipedia)
+* 

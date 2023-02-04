@@ -1,0 +1,2 @@
+A path variable can be made into a state variable by specifying a path.
+A path variable is dependent of the history of the system, while a state variable only depends on the present state of the system.
