@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "0b2cd2af7b16abf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "12c96fdd13016d44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afa8e8520009c08a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCHEM II RESOURCES/Practice Problems/HW 1/P2 Finding general solution, trajectory, and amplitude of classical harmonic oscillator..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8f36a510052ddae",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6aea84cc55698c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0619968f5724c988",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "436caf95a5a16845",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3cb3d3b1288b7c42",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2c6993d96f9277ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "ede2be0b1f83da8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce8ff527b999cfdc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PCHEM II RESOURCES/Practice Problems/HW 1/P2 Finding general solution, trajectory, and amplitude of classical harmonic oscillator..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "895b519100758955",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PCHEM II RESOURCES/Practice Problems/HW 1/P2 Finding general solution, trajectory, and amplitude of classical harmonic oscillator..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7baf117348f54cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c0bcd68bb9798af6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PCHEM II RESOURCES/Practice Problems/HW 1/P2 Finding general solution, trajectory, and amplitude of classical harmonic oscillator..md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "afa8e8520009c08a",
+  "lastOpenFiles": [
+    "PCHEM II RESOURCES/Practice Problems/HW 1/P3 Photoelectric Effect conceptual questions..md",
+    "PCHEM II RESOURCES/Practice Problems/HW 1/P1 Complex conjugates..md",
+    "Photoelectric Effect.md",
+    "PCHEMII.md",
+    "PCHEM II RESOURCES/Practice Problems/HW 1/P8 Calculate the de Broglie wavelength of atom given speed..md",
+    "PCHEM I RESOURCES/Templates/Pasted image 20230204145200.png",
+    "PCHEM I RESOURCES/Templates/Pasted image 20230204144203.png",
+    "PCHEM II RESOURCES/Practice Problems/HW 2/PS 23 1D box, what is x, px, and KE in relation to quantum number n..md",
+    "PCHEM II RESOURCES/Practice Problems/HW 2/PS 18 Evaluate commutators..md",
+    "PCHEM II RESOURCES/Practice Problems/HW 2/PS 17 Find the expectation value of a 1D particle described by phi(x)..md"
+  ]
+}
