@@ -1,0 +1,2 @@
+According to [[Quantum Theory]] a particle is constrained to move in a finite region of space described by only certain wavefunctions and can posess only certain energies.
+- Quantized energies is a natural consequence of solving the Schrodinger equation and the conditions imposed on it.

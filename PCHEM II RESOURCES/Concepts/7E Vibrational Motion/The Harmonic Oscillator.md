@@ -1,0 +1,1 @@
+Shows that energies of an oscillator are quantized and that oscillators may be found at displacement that are forbiddin by classical physics.

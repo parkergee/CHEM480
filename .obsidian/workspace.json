@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "12c96fdd13016d44",
+        "id": "cf21af2b3419ee15",
         "type": "tabs",
         "children": [
           {
-            "id": "afa8e8520009c08a",
+            "id": "e083bbe6830878c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCHEM II RESOURCES/Practice Problems/HW 1/P2 Finding general solution, trajectory, and amplitude of classical harmonic oscillator..md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCHEM II RESOURCES/Practice Problems/HW 1/P2 Finding general solution, trajectory, and amplitude of classical harmonic oscillator..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCHEM II RESOURCES/Practice Problems/HW 1/P2 Finding general solution, trajectory, and amplitude of classical harmonic oscillator..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,16 +118,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PCHEM II RESOURCES/Practice Problems/HW 1/P2 Finding general solution, trajectory, and amplitude of classical harmonic oscillator..md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,17 +138,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afa8e8520009c08a",
+  "active": "e083bbe6830878c7",
   "lastOpenFiles": [
-    "PCHEM II RESOURCES/Practice Problems/HW 1/P3 Photoelectric Effect conceptual questions..md",
-    "PCHEM II RESOURCES/Practice Problems/HW 1/P1 Complex conjugates..md",
-    "Photoelectric Effect.md",
-    "PCHEMII.md",
-    "PCHEM II RESOURCES/Practice Problems/HW 1/P8 Calculate the de Broglie wavelength of atom given speed..md",
-    "PCHEM I RESOURCES/Templates/Pasted image 20230204145200.png",
-    "PCHEM I RESOURCES/Templates/Pasted image 20230204144203.png",
-    "PCHEM II RESOURCES/Practice Problems/HW 2/PS 23 1D box, what is x, px, and KE in relation to quantum number n..md",
-    "PCHEM II RESOURCES/Practice Problems/HW 2/PS 18 Evaluate commutators..md",
-    "PCHEM II RESOURCES/Practice Problems/HW 2/PS 17 Find the expectation value of a 1D particle described by phi(x)..md"
+    "PCHEM II RESOURCES/Concepts/7A The Origin of Quantum Mechanics/7A Checklist of Concepts.md",
+    "PCHEM II RESOURCES/Concepts/7B Wave Functions/7B Checklist of Concepts.md",
+    "PCHEM II RESOURCES/Concepts/7C Operators and Observables/7C Checklist of Concepts.md",
+    "PCHEM II RESOURCES/Concepts/7C Operators and Observables/The Key Postulates of Quantum Mechanics.md",
+    "PCHEM II RESOURCES/Concepts/7C Operators and Observables/7C Key Ideas.md",
+    "PCHEM II RESOURCES/Concepts/7C Operators and Observables/The Uncertainty Principle.md",
+    "PCHEM II RESOURCES/Concepts/7C Operators and Observables/Construction of Operators.md",
+    "PCHEM II RESOURCES/Concepts/7C Operators and Observables/Superpositions and Expectation Values.md",
+    "PCHEM II RESOURCES/Concepts/7C Operators and Observables/Hermitian Operators.md",
+    "PCHEM II RESOURCES/Concepts/7C Operators and Observables/Interpreting Eigenvalues.md",
+    "PCHEM II RESOURCES/Concepts/7C Operators and Observables/Operators.md",
+    "PCHEM II RESOURCES/Concepts/7C Operators and Observables/Heisenberg Uncertainty Principle.md",
+    "Pasted image 20230304140412.png",
+    "Pasted image 20230304140254.png",
+    "Pasted image 20230304135927.png",
+    "Pasted image 20230304135718.png",
+    "PCHEM II RESOURCES/Concepts/7C Operators and Observables/Euler's Formula.md",
+    "Pasted image 20230304130207.png",
+    "Pasted image 20230227192309.png",
+    "Pasted image 20230227192052.png",
+    "Pasted image 20230226150038.png",
+    "Pasted image 20230226150004.png",
+    "Pasted image 20230226145710.png",
+    "PCHEM II RESOURCES/Concepts/7B Wave Functions/Schrodinger Equation.md",
+    "PCHEM II RESOURCES/Concepts/7B Wave Functions/Born Interpretation.md",
+    "PCHEM II RESOURCES/Concepts/7B Wave Functions/7B Key Ideas.md",
+    "PCHEM II RESOURCES/Concepts/7B Wave Functions/Wavefunction.md",
+    "PCHEM II RESOURCES/Concepts/7A The Origin of Quantum Mechanics/7A Key Ideas.md",
+    "PCHEM II RESOURCES/Concepts/7A The Origin of Quantum Mechanics/Black-Body Radiation.md",
+    "PCHEM II RESOURCES/Practice Problems/Book Problems/7B Determining a probability.md",
+    "PCHEM II RESOURCES/Practice Problems/Book Problems/7A Estimate the de Broglie Wavelength.md",
+    "Normalization.md",
+    "PCHEM II RESOURCES/Concepts/7A The Origin of Quantum Mechanics/Photoelectric Effect.md",
+    "PCHEM II RESOURCES/Concepts/7A The Origin of Quantum Mechanics/Energy Quantization.md",
+    "PCHEM II RESOURCES/Concepts/7A The Origin of Quantum Mechanics/de Broglie Relation.md",
+    "PCHEM II RESOURCES/Practice Problems/Book Problems/7A Calculate the Number of Photons.md"
   ]
 }

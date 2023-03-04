@@ -1,0 +1,1 @@
+Express all properties of a system by solving this equation - what does it reveal about the location of a particle
